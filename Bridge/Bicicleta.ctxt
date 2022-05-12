@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bicicleta
+comment1.params=oficina1\ oficina2
+comment1.target=Bicicleta(Oficina,\ Oficina)
+comment2.params=
+comment2.target=void\ fabricar()
+numComments=3
