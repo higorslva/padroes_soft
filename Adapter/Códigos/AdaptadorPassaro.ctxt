@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=AdaptadorPassaro
-comment1.params=passaro
-comment1.target=AdaptadorPassaro(Passaro)
-comment2.params=
-comment2.target=void\ barulho()
-numComments=3
