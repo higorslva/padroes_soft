@@ -1,3 +1,3 @@
-interface Expression{
-    boolean interpreter(String con);
+public interface Expression {
+   public boolean interpret(String context);
 }
